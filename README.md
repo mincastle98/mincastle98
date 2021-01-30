@@ -1,7 +1,7 @@
 # Hi, I'm Minseong! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mincastle98&show_icons=true&&hide=stars,issues&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mincastle98&show_icons=true&&hide=stars,issues&theme=vue&hide_rank=true)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mincastle98&layout=compact&theme=vue)
