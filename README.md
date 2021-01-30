@@ -1,4 +1,8 @@
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mincastle98&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mincastle98&layout=compact)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmincastle98&count_bg=%2304C0D7&title_bg=%23606060&icon=macys.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)
 
 <!--
 **mincastle98/mincastle98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
