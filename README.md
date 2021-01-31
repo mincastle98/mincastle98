@@ -2,9 +2,9 @@
 
 <p align=center>
   
-<img src="https://github-readme-stats.vercel.app/api?username=mincastle98&show_icons=true&&hide=stars,issues&theme=vue&hide_rank=true" alt="Minseong's GitHub stats" height="150" width="300">
+<img src="https://github-readme-stats.vercel.app/api?username=mincastle98&show_icons=true&&hide=stars,issues&theme=vue&hide_rank=true" alt="Minseong's GitHub stats" height="150" width="290">
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mincastle98&layout=compact&theme=vue&card_width=250&langs_count=4" alt="Top Langs" height="150" width="300">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mincastle98&layout=compact&theme=vue&card_width=250&langs_count=4" alt="Top Langs" height="150" width="290">
 
 </p>
 
