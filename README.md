@@ -3,7 +3,7 @@
 
 <p align=center>
   
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mincastle98&layout=compact&theme=vue" alt="Minseong's wakatime stats" width="560">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mincastle98&theme=vue" alt="Minseong's wakatime stats" width="560">
 
 </p>
 
